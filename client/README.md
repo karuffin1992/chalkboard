@@ -1,5 +1,6 @@
-# chalkboard
-Blackboard-type application used for the management of educational material.
+# chalkboard-frontend
+
+The frontend application of Chalkboard written in Vue.js.
 
 ## Project setup
 ```
