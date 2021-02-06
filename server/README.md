@@ -9,5 +9,5 @@ npm install
 
 ### Compiles and hot-reloads for development (using nodemon)
 ```
-npm run serve
+npm run dev
 ```
