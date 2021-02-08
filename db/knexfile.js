@@ -1,8 +1,13 @@
 // Update with your config settings.
 
-module.exports = {
+const knex = {
   development: {
     client: 'pg',
-    connection: 'postgres://localhost/chalkboard'
+    connection: {
+      host: 'localhost',
+      database: 'chalkboard'
+    }
   }
 };
+
+module.exports = knex;
