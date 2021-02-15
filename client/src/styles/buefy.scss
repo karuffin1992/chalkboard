@@ -1,0 +1,20 @@
+// Import Bulma's core
+@import "~bulma/sass/utilities/_all";
+
+// Set your colors
+
+// Lists and maps
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+
+// Links
+// $link: $primary;
+// $link-invert: $primary-invert;
+// $link-focus-border: $primary;
+
+// 7-1 SASS
+@import './components/container';
+
+// Import Bulma and Buefy styles
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
